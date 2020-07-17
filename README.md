@@ -19,8 +19,8 @@
 
 [<img height="40" src="https://img.shields.io/badge/-transparent?style=flat-square&logo=twitter">](https://twitter.com/iaremarkus)
 [<img height="40" src="https://img.shields.io/badge/-transparent?style=flat-square&logo=instagram">](https://instagram.com/markbloomfield)
-[<img height="40" src="https://img.shields.io/badge/-transparent?style=flat-square&logo=github">](https://github.com/iaremarkus)
-[<img height="50" style="position:relative;top:6px;" src="https://img.shields.io/badge/-transparent?style=flat-square&logo=dev.to">](https://dev.to/markbloomfield)
+[<img height="40" src="https://img.shields.io/badge/-transparent?style=flat-square&logo=github&logoColor=000">](https://github.com/iaremarkus)
+[<img height="50" src="https://img.shields.io/badge/-transparent?style=flat-square&logo=dev.to&logoColor=1a2634">](https://dev.to/markbloomfield)
 
 ---
 
