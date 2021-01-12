@@ -9,9 +9,9 @@
 
 ## 👋
 
-**I am a South African frontend developer. I code websites & interfaces with Javascript & CSS.**
+**I am a South African frontend developer. I code websites & interfaces with Javascript.**
 
-🌊 I live in Cape Town and am currently working for [Maven](https://maven.one/) building awesome websites with React.
+🌊 I live in Cape Town and I build awesome websites with React.
 
 ⛰️ When not coding, I'm normally up a mountain somewhere.
 
