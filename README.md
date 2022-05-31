@@ -9,18 +9,19 @@
 
 ## 👋
 
-**I am a South African frontend developer. I code websites & interfaces with Javascript.**
+**I am a Javascript frontend developer based in Cape Town, South Africa. I code websites & interfaces with mostly with React.**
 
-🌊 I live in Cape Town and I build awesome websites with React.
-
-⛰️ When not coding, I'm normally up a mountain somewhere.
+⛰️ When not coding, I'm normally up a mountain somewhere, or taking photos of something pretty
 
 ---
 
-[<img src="https://img.shields.io/badge/-transparent?style=social&logo=twitter">](https://twitter.com/iaremarkus)
-[<img src="https://img.shields.io/badge/-transparent?style=social&logo=instagram">](https://instagram.com/iaremarkuspics)
-[<img src="https://img.shields.io/badge/-transparent?style=social&logo=github&logoColor=000">](https://github.com/iaremarkus)
-[<img src="https://img.shields.io/badge/-transparent?style=social&logo=dev.to&logoColor=1a2634">](https://dev.to/markbloomfield)
+
+
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/iaremarkus)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/iaremarkuspics)
+[<img src="https://img.shields.io/badge/dev.to-ffffff?style=for-the-badge&logo=devdotto&logoColor=black">](https://dev.to/markbloomfield)
+[<img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white">](https://iaremarkus.dev)
+[<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">]([https://iaremarkus.dev](https://open.spotify.com/user/hsoogijfawt0wq8xiqk4hur3k?si=7e129b9cdd15414d))
 
 ---
 
