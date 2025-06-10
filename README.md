@@ -19,7 +19,7 @@
 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/iaremarkus)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/iaremarkuspics)
-[<img src="https://img.shields.io/badge/iaremarkus.dev-543DE0">](https://iaremarkus.dev)
+[<img src="https://img.shields.io/badge/iaremarkus.dev-543DE0?style=for-the-badge">](https://iaremarkus.dev)
 [<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">]([https://iaremarkus.dev](https://open.spotify.com/user/hsoogijfawt0wq8xiqk4hur3k?si=7e129b9cdd15414d))
 
 ---
